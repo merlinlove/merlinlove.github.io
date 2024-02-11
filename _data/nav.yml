@@ -4,6 +4,9 @@
 - title: "covers"
   href: "/covers/"
 
+- title: "design"
+  href: "/design/"
+
 - title: "blog"
   href: "/blog/"
 
@@ -12,3 +15,4 @@
   
 - title: "contact"
   href: "/contact/"
+
