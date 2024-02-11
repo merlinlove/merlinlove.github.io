@@ -1,10 +1,10 @@
 # Site settings
-title: Starving Artist Jekyll Theme
-email: ctarwater@chrisanthropic.com
-author: Chrisanthropic
+title: Merlin Lollis Love
+email: merlinlollislove@gmail.com
+author: Merlin Love
 
-keywords: jekyll, jekyll theme, portfolio theme, artist theme
-description: Witty description here.
+keywords: Merlin Love, art, architecture, illustration
+description: An artist website
 
 # Only use this if you are serving your site via Github Pages
 github:
@@ -13,7 +13,7 @@ github:
 header: images/logo.png
 
 # Formspree contact Form
-contact_form: "https://formspree.io/ctarwater@chrisanthropic.com"
+#contact_form: "https://formspree.io/ctarwater@chrisanthropic.com"
 
 
 # Exclude our ruby stuff
